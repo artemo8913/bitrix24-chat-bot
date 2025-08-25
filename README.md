@@ -4,7 +4,7 @@
 1. В соответствии с [документацией](https://apidocs.bitrix24.ru/access-to-rest-api.html) на сайте [Битрикс](https://www.bitrix24.ru/) зарегистрировался, взял бесплатный пробный период на 90 дней подписки на Маркетплейс.
 2. В меню "Разработчикам"-"Добавить чат-бота" сгенирировал вебхук, код бота, client_id бота
 ![Меню создания бота](attachments/firefox_F2oks0cmd7.gif)
-![Сгенерированные id](attachments/firefox_k96JA7GmKp.gif.gif)
+![Сгенерированные id](attachments/firefox_k96JA7GmKp.gif)
 3. Основываясь на документации и [инструкции](https://bitrix-tools.github.io/b24jssdk/guide/example-hook-node-work.html) создал:
 
     - файл .env.local
